@@ -1,1 +1,1 @@
-My git dierectoy ReadMe
+My git dierectoy ReadMe.
